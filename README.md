@@ -9,3 +9,4 @@
 - [AspectJ Documentation](https://www.eclipse.org/aspectj/docs.php)
 - [Introduction to Spring AOP](https://www.baeldung.com/spring-aop)
 - [Aspect Oriented Programming with Spring](https://docs.spring.io/spring-framework/docs/2.5.x/reference/aop.html)
+- [Comparing Spring AOP and AspectJ](https://www.baeldung.com/spring-aop-vs-aspectj)
